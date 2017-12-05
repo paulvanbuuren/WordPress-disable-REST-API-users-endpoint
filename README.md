@@ -11,3 +11,6 @@ www.example.com/wp-json/wp/v2/users/
 paul@wbvb.nl
 
 twitter.com/paulvanbuuren
+
+## credits:
+Hat tip to [Daniel Bachhuber](https://github.com/WP-API/WP-API/issues/2338#issuecomment-193887183).
