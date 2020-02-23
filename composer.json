@@ -1,0 +1,14 @@
+{
+  "name": "paulvanbuuren/ictuwp-disable-REST-API-users-endpoint",
+  "type": "wordpress-muplugin",
+  "license": "GPL-3.0",
+  "description": "Disable users endpoint of REST API ",
+  "homepage": "https://www.gebruikercentraal.nl",
+  "authors": [
+    {
+      "name": "Paul van Buuren",
+      "email": "paul@wbvb.nl",
+      "homepage": "https://wbvb.nl"
+    }
+  ]
+}
